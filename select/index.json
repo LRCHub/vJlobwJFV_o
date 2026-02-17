@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Gear 5 [Remix]（feat. MIYACHI、Jinmenusagi）",
+  "base_artist": "OZworld",
+  "createdAt": "2026-02-17T23:31:03.024925Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "In The Heat Of The Morning - BBC \"Top Gear\" 18/12/67 Mono",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/01_In_The_Heat_Of_The_Morning_-_BBC__Top_Gear__18_12_67_Mono_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Love You Till Tuesday - BBC \"Top Gear\" 18/12/67 Mono",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/02_Love_You_Till_Tuesday_-_BBC__Top_Gear__18_12_67_Mono_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Silly Boy Blue - BBC \"Top Gear\" 18/12/67 Mono",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/03_Silly_Boy_Blue_-_BBC__Top_Gear__18_12_67_Mono_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "When I Live My Dream - BBC \"Top Gear\" 18/12/67 Mono",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/04_When_I_Live_My_Dream_-_BBC__Top_Gear__18_12_67_Mono_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "High Gear",
+      "artist": "The Jon Spencer Blues Explosion",
+      "has_synced": false,
+      "path": "select/05_High_Gear_The_Jon_Spencer_Blues_Explosion.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "First Gear",
+      "artist": "Ducktails",
+      "has_synced": false,
+      "path": "select/06_First_Gear_Ducktails.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "6th Gear",
+      "artist": "Alvaro & Diplo feat. Kstylis",
+      "has_synced": false,
+      "path": "select/07_6th_Gear_Alvaro_&_Diplo_feat._Kstylis.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "6th Gear (Feat. Kstylis)",
+      "artist": "Diplo & Alvaro",
+      "has_synced": false,
+      "path": "select/08_6th_Gear_(Feat._Kstylis)_Diplo_&_Alvaro.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Killer Gear",
+      "artist": "Freedom Call",
+      "has_synced": true,
+      "path": "select/09_Killer_Gear_Freedom_Call.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "First Gear",
+      "artist": "The Rapture",
+      "has_synced": true,
+      "path": "select/10_First_Gear_The_Rapture.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Drink to Get Drunk - Different Gear Remix",
+      "artist": "Sia feat. Different Gear",
+      "has_synced": false,
+      "path": "select/11_Drink_to_Get_Drunk_-_Different_Gear_Remix_Sia_feat._Different_Gear.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Different Gear vs. Sia - Drink To Get Drunk (Different Gear Mix)",
+      "artist": "Sia",
+      "has_synced": false,
+      "path": "select/12_Different_Gear_vs._Sia_-_Drink_To_Get_Drunk_(Different_Gear_Mix)_Sia.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Different Gear vs. Sia - Drink To Get Drunk (Different Gear Radio Edit)",
+      "artist": "Sia",
+      "has_synced": false,
+      "path": "select/13_Different_Gear_vs._Sia_-_Drink_To_Get_Drunk_(Different_Gear_Radio_Edit)_Sia.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Drink to Get Drunk (Different Gear mix)",
+      "artist": "Sia",
+      "has_synced": true,
+      "path": "select/14_Drink_to_Get_Drunk_(Different_Gear_mix)_Sia.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "21st Century (Different Gear mix)",
+      "artist": "Weekend Players",
+      "has_synced": false,
+      "path": "select/15_21st_Century_(Different_Gear_mix)_Weekend_Players.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Emmaretta (BBC Top Gear Session)",
+      "artist": "Deep Purple",
+      "has_synced": true,
+      "path": "select/16_Emmaretta_(BBC_Top_Gear_Session)_Deep_Purple.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Hey Bop A Re Bop (BBC Top Gear Session)",
+      "artist": "Deep Purple",
+      "has_synced": true,
+      "path": "select/17_Hey_Bop_A_Re_Bop_(BBC_Top_Gear_Session)_Deep_Purple.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Gear 5 (feat. ACE COOL & Ralph)",
+      "artist": "OZworld",
+      "has_synced": false,
+      "path": "select/pl_01_Gear_5_(feat._ACE_COOL_&_Ralph)_OZworld.txt"
+    }
+  ]
+}
